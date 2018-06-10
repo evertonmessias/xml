@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="teste02.xsl"?>
+
+<veiculo>
+
+<modelo>Fiesta</modelo>
+<fabricante>Ford</fabricante>
+<ano>2014</ano>
+
+<acessorios>
+<acessorio>Som</acessorio>
+<acessorio>Vidro</acessorio>
+<acessorio>Direção</acessorio>
+</acessorios>
+
+</veiculo>

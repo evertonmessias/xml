@@ -13,7 +13,7 @@
 	<p>Fabricante: <xsl:value-of select="veiculo/fabricante" /></p>
 	<p>Ano: <xsl:value-of select="veiculo/ano" /></p>
 	<xsl:for-each select="veiculo/acessorios/acessorio">
-		<p>Acessorio: <xsl:value-of select="." /></p>
+		<p>Acessorio: <xsl:value-of select="." /></p>		
 	</xsl:for-each>
 
 
